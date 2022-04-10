@@ -1,4 +1,4 @@
-from opensea import OpenseaAPI
+from opensea import OpenseaAPI # Use pip to install OpenSea API: cmd -> pip3 install opensea
 
 # OPENSEA API
 
